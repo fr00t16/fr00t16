@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Faizal Rifaldy
 
-You may know me as `faizal`, web developer from 🇮🇩.
-
+You may know me as `faizal` 😄, slacker web developer from 🇮🇩.
+⚡
 ### Connect with me:
 
 <p align="left">
