@@ -26,7 +26,4 @@ You may know me as `faizal` 😄, slacker web developer from 🇮🇩.
 </p>
 
 ### Stats:
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=fr00t16&show_icons=true&theme=nightowl&locale=en" alt="fr00t16" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fr00t16&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="fr00t16" /></p>
