@@ -21,8 +21,9 @@ You may know me as `faizal` 😄, from 🇮🇩.
 ### Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/frifaldy16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frifaldy16" height="30" width="40" /></a>
+<a href="https://twitter.com/MIDRAINMADNESS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MIDRAINMADNESS" height="30" width="40" /></a>
 <a href="https://instagram.com/faizalrifaldy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faizalrifaldy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/faizalrifaldy/" target="blank"><img align="center" src="https://www.linkedin.com/in/faizalrifaldy/" alt="faizalrifaldy" height="30" width="40" /></a>
 </p>
 
 ### Stats:
