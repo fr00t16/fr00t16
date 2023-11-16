@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Faizal Rifaldy
+# 👋 Welcome
 
-You may know me as `faizal` 😄, from 🇮🇩.
+Veni, vidi, vici
 ⚡
 ### Connect with me:
 
