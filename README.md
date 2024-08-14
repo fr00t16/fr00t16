@@ -21,7 +21,7 @@ Veni, vidi, vici
 ### Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/MIDRAINMADNESS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MIDRAINMADNESS" height="30" width="40" /></a>
+<a href="https://twitter.com/0xZeppun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ZAL" height="30" width="40" /></a>
 <a href="https://instagram.com/faizalrifaldy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faizalrifaldy" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/faizalrifaldy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizal rifaldy Linkedin" height="30" width="40" /></a>
 </p>
